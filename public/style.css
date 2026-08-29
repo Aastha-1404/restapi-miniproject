@@ -1,0 +1,15 @@
+h1{
+    color: mediumblue;
+}
+.post{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #b9f16e;
+}
+.user{
+    color: #333;
+}
+.content{
+    color: #666;
+}
